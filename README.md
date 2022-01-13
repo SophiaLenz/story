@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
         <title>Session 6 HW - Sophia Lenz - Story</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="stylesheet" href="story.css" />
+        <link rel="stylesheet" href="https://github.com/SophiaLenz/story/blob/main/story.css" />
     </head>
     <body>
         <div class="container">
