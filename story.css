@@ -56,14 +56,14 @@ img {
 }
 
 .logo {
-    background: url('img/400') no-repeat;
+    background: url('400.jpg') no-repeat;
     min-height: 300px;
   }
   
   /* For width 400px and larger: */
   @media only screen and (min-width: 400px) {
     .logo {
-      background: url('img/homeslider.jpg') no-repeat;
+      background: url('homeslider.jpg') no-repeat;
       min-height: 650px;
     }
   }
